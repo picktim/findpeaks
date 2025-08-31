@@ -22,6 +22,11 @@ findpeaks is a comprehensive Python library for robust detection and analysis of
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=erdogant/findpeaks&type=Date)](https://www.star-history.com/#erdogant/findpeaks&Date)
+
+---
 ### Key Features
 
 | Feature | Description | Medium | Gumroad & Podcast |
